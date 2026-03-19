@@ -1,4 +1,4 @@
 - [ ] Task A
 
 
-- [ ] Task B
+- [x] Task B (done)
