@@ -1,2 +1,2 @@
-- [ ] Task A
+- [x] Task A (done)
 - [ ] Task B
